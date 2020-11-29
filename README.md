@@ -1,1 +1,20 @@
-# 01-Homework-Code-Refactor
+# Agency Website Refactored For Accessibility
+The Americans with Disabilities Act (ADA) was signed into law on July 26, 1990, by President George H.W. Bush. The ADA is one of America's most comprehensive pieces of civil rights legislation that prohibits discrimination and guarantees that people with disabilities have the same opportunities as everyone else to participate in the mainstream of American life -- to enjoy employment opportunities, to purchase goods and services, and to participate in State and local government programs and services. Modeled after the Civil Rights Act of 1964, which prohibits discrimination on the basis of race, color, religion, sex, or national origin – and Section 504 of the Rehabilitation Act of 1973 -- the ADA is an "equal opportunity" law for people with disabilities.
+
+While there is no specific regulation for privately owned websites to be ADA compliant, websites seeking to serve a broad and disverse population are increasingly updating their sites to be accessible. Accessibility on the web means ensuring that people with disabilities can access a website using assistive technologies such as video captions, screen readers, and braille keyboards. Making a website accessible is also good for business for many reasons, one of them being that accessible sites are better positioned in search engines like Google. It also helps companies avoid litigation that can occur when people with disabilities cannot access their website.
+
+## Project Goal: Refactoring Agency's Site To Become Accessible
+Follow best practices for website accessibility so that the agency website is optimized for search engines.
+
+## Acceptance Criteria
+GIVEN a webpage meets accessibility standards
+WHEN I view the source code
+THEN I find semantic HTML elements
+WHEN I view the structure of the HTML elements
+THEN I find that the elements follow a logical structure independent of styling and positioning
+WHEN I view the image elements
+THEN I find accessible alt attributes
+WHEN I view the heading attributes
+THEN they fall in sequential order
+WHEN I view the title element
+THEN I find a concise, descriptive title
