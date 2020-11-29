@@ -23,17 +23,24 @@ GIVEN a webpage meets accessibility standards...
 - WHEN I view the title element
     - THEN I find a concise, descriptive title
 
-## Original HTML and CSS
+## Original Code vs Final/Edited Code
 The links below contain the original HTML and CSS files from the working site prior to starting this project.  Compare these to the new .html and .css files in the root directory.
 
 - https://github.com/verusbabb/01-Homework-Code-Refactor/blob/main/Original%20HTML%2C%20CSS%2C%20and%20website%20png/index.html
 - https://github.com/verusbabb/01-Homework-Code-Refactor/blob/main/Original%20HTML%2C%20CSS%2C%20and%20website%20png/style.css
 
+For comparison, here are links to the final edited HTML and CSS code
+
+- https://github.com/verusbabb/01-Homework-Code-Refactor/blob/main/index.html
+- https://github.com/verusbabb/01-Homework-Code-Refactor/blob/main/style.css
+
 
 ## Completed Project Link
-This site meets all criteria.  **In addition**, I have made the header sticky (stays visible when scrolling) and added a "Contact Us" button in the Header.
+This site meets all criteria.  **In addition**, I have made the web site header sticky (stays visible when scrolling) and added a "Contact Us" button in the Header.
 
+Published site
 - https://verusbabb.github.io/01-Homework-Code-Refactor/index.html
+
 
 ## Testing
 
