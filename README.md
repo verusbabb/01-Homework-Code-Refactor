@@ -4,7 +4,10 @@ The Americans with Disabilities Act (ADA) was signed into law on July 26, 1990, 
 While there is no specific regulation for privately owned websites to be ADA compliant, websites seeking to serve a broad and disverse population are increasingly updating their sites to be accessible. Accessibility on the web means ensuring that people with disabilities can access a website using assistive technologies such as video captions, screen readers, and braille keyboards. Making a website accessible is also good for business for many reasons, one of them being that accessible sites are better positioned in search engines like Google. It also helps companies avoid litigation that can occur when people with disabilities cannot access their website.
 
 ## Project Goal: Refactoring Agency's Site To Become Accessible
-Follow best practices for website accessibility so that the agency website is optimized for search engines.
+Follow best practices for website accessibility so that the agency website is optimized for search engines.  Here is an image of the agency website in its original form.
+
+https://github.com/verusbabb/01-Homework-Code-Refactor/blob/main/Original%20HTML%2C%20CSS%2C%20and%20website%20png/01-html-css-git-homework-demo.png
+
 
 ## Acceptance Criteria
 GIVEN a webpage meets accessibility standards...
@@ -19,3 +22,19 @@ GIVEN a webpage meets accessibility standards...
     - THEN they fall in sequential order
 - WHEN I view the title element
     - THEN I find a concise, descriptive title
+
+## Original HTML and CSS
+The links below contain the original HTML and CSS files from the working site prior to starting this project.  Compare these to the new .html and .css files in the root directory.
+
+- https://github.com/verusbabb/01-Homework-Code-Refactor/blob/main/Original%20HTML%20and%20CSS/index.html
+- https://github.com/verusbabb/01-Homework-Code-Refactor/blob/main/Original%20HTML%20and%20CSS/style.css
+
+## Completed Project Link
+This site meets all criteria.  **In addition**, I have made the header sticky (stays visible when scrolling) and added a "Contact Us" button in the Header.
+
+- https://verusbabb.github.io/01-Homework-Code-Refactor/index.html
+
+## Testing
+
+
+
