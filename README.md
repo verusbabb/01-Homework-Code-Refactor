@@ -43,11 +43,11 @@ Published site
 
 
 ## Testing
-Tested using https://wave.webaim.org to check for accessibility errors.  Report is below showing ZERO errors.  
+Tested using https://webaccessibility.com per recommendation of W3Schools.  
 
-![](https://github.com/verusbabb/01-Homework-Code-Refactor/blob/main/images/Screen%20Shot%202020-11-29%20at%206.36.40%20PM.png)
+![](https://github.com/verusbabb/01-Homework-Code-Refactor/blob/main/images/webaccessibillity.com%20test%20results.png)
 
-The noted ALERT is for alt text being too long for one image.  The noted CONTRAST ERRORS are related to background color vs text color potentially impacting visibility.
+
 
 
 
