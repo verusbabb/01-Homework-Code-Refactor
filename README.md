@@ -6,7 +6,7 @@ While there is no specific regulation for privately owned websites to be ADA com
 ## Project Goal: Refactoring Agency's Site To Become Accessible
 Follow best practices for website accessibility so that the agency website is optimized for search engines.  Here is an image of the agency website in its original form.
 
-[image] https://github.com/verusbabb/01-Homework-Code-Refactor/blob/main/Original%20HTML%2C%20CSS%2C%20and%20website%20png/01-html-css-git-homework-demo.png
+! [website .png] https://github.com/verusbabb/01-Homework-Code-Refactor/blob/main/Original%20HTML%2C%20CSS%2C%20and%20website%20png/01-html-css-git-homework-demo.png
 
 
 ## Acceptance Criteria
