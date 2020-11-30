@@ -43,6 +43,11 @@ Published site
 
 
 ## Testing
+Tested using https://wave.webaim.org to check for accessibility errors.  Report is below showing ZERO errors.  
+
+
+
+The noted ALERT is for alt text being too long for one image.  The noted CONTRAST ERRORS are related to background color vs text color potentially impacting visibility.
 
 
 
